@@ -3,9 +3,6 @@ icon: fas fa-circle-user
 order: 5
 ---
 
-> Add Markdown syntax content to file `_tabs/resume.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 # Micah Wallace
 
 ---
@@ -18,6 +15,12 @@ Location: Ontario, Canada
 Hello and welcome! I am an Information Technology Professional currently based out of South-Western Ontario, Canada. I have been working in the field since 2011 and continue to seek out new technology as well as broaden my experience and training. I have a passion for Information security and take every opportunity to learn and grow in the field.
 
 My childhood was spent growing up on a farm which provided lots of opportunity to learn how to work hard, as well as to learn how to problem solve across a broad range. Being able to “Think outside the box” is a skill that is extremely valuable in IT and many problems faced on a daily basis require this skill to successfully solve.
+
+ChatGPT
+
+Hello and welcome! As an Information Technology Professional based in South-Western Ontario, Canada, I have been working in the field since 2011 and am always seeking to broaden my experience and training. I have a strong passion for IT security and am dedicated to continuously learning and growing in this field.
+
+Growing up on a rural farm taught me the value of hard work and the ability to think outside the box, which are both essential skills in IT. Many of the problems encountered in this field require creative thinking and the ability to find solutions from a variety of angles. I am always looking for new opportunities to hone these skills and provide the best possible service.
 
 ---
 
@@ -59,28 +62,14 @@ Front Line Leadership | March 2018
 
 ---
 
-## TECHNICAL DETAILS
-
-**Systems**
-VMware ESXi, Hyper-V, Proxmox, Windows 7-10, Microsoft Server 2008-2016, Ubuntu Linux, Cisco IOS, Ubiquiti
-
-**Hardware**
-Dell, Cisco, Watchguard, Apple, Android, Ubiquiti Wireless
-
-**Software**
-Ivanti (LANDesk) Management Suite, Microsoft Office 2010/2013/2016/M365
-
-**Scripting**
-PowerShell, Python, VBScript, Batch Scripting
-
----
-
 ## EXPERIENCE
 
 > **CF Industries** | Sarnia, Ontario\
 > April 2016 - Current
 > > **Cyber Security Analyst III**\
 > > October 2021 - Current
+> >
+> >Working as part of our Identity Management team in our Enterprise IT Security Department with areas of focus in Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi Factor Authentication and Identity management.
 >
 > > **IT Site Lead**\
 > > January 2021 - March 2022
@@ -103,18 +92,16 @@ PowerShell, Python, VBScript, Batch Scripting
 > > Provide front-line support to approximately two hundred users as well as seeing to the administration and upkeep of workstation and mobile device fleet. Build and maintain software deployment packages. Monitor endpoint security, new software, OS, and hardware testing. Maintain the servers that manage our workstation environment and assist with server maintenance and management of our broader server and VMware infrastructure.
 > >
 > > - Manage 280+ endpoints (Desktop, Laptop, Mobile)
-> >
 > > - Assist with Microsoft Server and VMware ESXi Administration
-> >
 > > - Windows 7 / 8 / 8.1 / 10
-> >
 > > - Intrinsically Safe (Class 1 Div 2) Tablets
-> >
 > > - Active Directory MAC’s
 > >
 > > **CF Industries - Hard Drive Encryption Project (2017)**
 > >
 > > - Technical lead in team that chose, implemented and deployed workstation hard drive encryption solution for the Enterprise.
+
+<br>
 
 > **LEADWAVE Technologies** | Sarnia, Ontario\
 >  September 2012 - April 2016
@@ -136,6 +123,8 @@ PowerShell, Python, VBScript, Batch Scripting
 > > September 2012 - May 2014
 > >
 > > Assisted LEADWAVE customers with computer issues in a timely manner.
+
+<br>
 
 > **Sarnia Police Services** | Sarnia, Ontario\
 > October 2011 - July 2012
@@ -168,91 +157,84 @@ PowerShell, Python, VBScript, Batch Scripting
 
 ---
 
-## Education
+## EDUCATION
 
+**Information Technology Professional** | Lambton College (Sarnia, Ontario)\
+Graduate Certificate - ITP-32 Class of 2011 (Deans Honour List)
 
+The ITP Program is a 12 month, fast track program focusing on computer system designing, building, maintaining, and support in a broad spectrum of hardware and software. This program also has management courses to round out a candidate for leadership roles. Courses that are included in this program are:
 
+- Project Management (CompTIA Project +)
+- Cisco Certified Network Associate (CCNA)
+- Microsoft Server, Enterprise Administrator
+- Managing and Maintaining Your PC (CompTIA A+)
+- Exchange Server 2007, Configuring
+- Windows Server 2008 R2
+- Server Virtualization
+- Wireless Networking
+- CompTIA Security +
+- Microsoft Office
+- Business Management
+- Unix
 
-## Education
+**Camp Apprentice Ministry Program** | Miracle Mountain Ranch Missions (Spring Creek, Pennsylvania)\
+2008 - 2010
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+The Camp Apprentice Ministry Program is a 12-month college-level apprenticeship leadership training program, Biblical studies school, horse ranch and kids summer camp. This program provides both theoretical training, as well as hands-on opportunities to demonstrate and build on the lessons learned.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+A second year is done by a limited number of first year graduates were skills in leadership, mentoring and summer camp ministry are further developed.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+---
 
-    *Minor: Awesomeology*
+## TECHNICAL DETAILS
 
-## Experience
-----------
+**Systems**
+VMware ESXi, Hyper-V, Proxmox, Windows 7-10, Microsoft Server 2008-2016, Ubuntu Linux, Cisco IOS, Ubiquiti
 
-**Your Most Recent Work Experience:**
+**Hardware**
+Dell, Cisco, Watchguard, Apple, Android, Ubiquiti Wireless
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Software**
+Ivanti (LANDesk) Management Suite, Microsoft Office 2010/2013/2016/M365
 
-* First item
+**Scripting**
+PowerShell, Python, VBScript, Batch Scripting
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+---
 
-**That Other Job You Had**
+## VOLUNTEER EXPERIENCE
 
-Also with a short description.
+**Various Charities** | IT Support (Various Locations)\
+July 2012 - Present
 
-Technical Experience
---------------------
+- Network design, setup and management of multi-segment networks with customized web and application filtering
+- Wireless P2P network links (10km WAN Bridge, building to building)
+- Social Media and website setup and coaching and content management
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Victim Services Sarnia-Lambton** | IT Support (Sarnia, Ontario)\
+Oct 2011 - July 2012
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Provided volunteer IT support to Victim Services of Sarnia-Lambton.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Sarnia Lambton Crime Stoppers** | IT Support (Sarnia, Ontario)\
+Oct 2011 - July 2012
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Provided volunteer IT support to Sarnia Lambton Crime Stoppers.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
+**Spring Creek Volunteer Fire Department** | Volunteer Fire Fighter (Spring Creek, Pennsylvania)\
+Oct 2009 - Aug 2010
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+While on the department I had the opportunity to respond to medical assistance calls, motor vehicle accidents, and building fires. I was also able to help with a controlled wildfire burn.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Completed sixteen-hour Fire Fighter Basic Training. Warren County Fire School
 
-[ref]: https://github.com/githubuser/superlongprojectname
+**Humanitarian Trip** | Construction Project (Sayaxche, Guatemala)\
+March 2007
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Was able to help with the construction of a youth sports center and volunteer work in the community.
 
-* Human Languages:
+## PERSONAL INTERESTS
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+I am currently pursuing a dream of having my private pilot’s license and have completed ground school as well as a number of hours of flight training.
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+I also enjoy experimenting and challenging myself with new technologies and software in my personal VM lab and continue to broaden my knowledge and understanding of new technology and in particular the computer security field.

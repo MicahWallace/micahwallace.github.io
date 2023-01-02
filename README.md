@@ -35,6 +35,12 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+From the command line run the following to start the dev server.  --drafts must be used to render the draft posts.
+
+```bash
+bundle exec jekyll s --drafts
+```
+
 ## License
 
 This work is published under [MIT][mit] License.

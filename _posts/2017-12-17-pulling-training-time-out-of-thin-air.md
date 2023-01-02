@@ -1,7 +1,7 @@
 ---
-title: "Pulling Training Time Out of Thin Air"
+title: Pulling Training Time Out of Thin Air
 date: 2017-12-17 12:00:00 -0500
-categories: [training]
+categories: [Training]
 tags: [training,podcasts]
 ---
 In the busy hustle of life and work it is hard to find time to continue learning.  We all want to but where do we find the time?  Here are two great ways to start. I like many was experiencing this issue but as a new years goal for 2015 I decided to try and do something about it.  After taking a look at my available time I found a part of the day that would work for this experiment.  If you are anywhere close to the average [Stats Canada says](https://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_1-eng.cfm) **"In 2011, commuters spent an average of 25.4 minutes traveling to work. This was almost the same as the average in the United States for the same year (25.5 minutes)."** Now I am a fair bit above this average with a commute of 60 minutes each way and in the back of my mind I knew listening to the radio was not my best use of time so January 1st I downloaded two apps to my phone.  They were a podcast player app and [Audible Gold Membership](https://www.amazon.com/gp/product/B00NB873RG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NB873RG&linkCode=as2&tag=micahwallacec-20&linkId=KV2PH4DBOONCKIDV)![](https://ir-na.amazon-adsystem.com/e/ir?t=micahwallacec-20&l=as2&o=1&a=B00NB873RG).
