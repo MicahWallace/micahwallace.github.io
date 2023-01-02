@@ -12,12 +12,6 @@ Location: Ontario, Canada
 
 ---
 
-Hello and welcome! I am an Information Technology Professional currently based out of South-Western Ontario, Canada. I have been working in the field since 2011 and continue to seek out new technology as well as broaden my experience and training. I have a passion for Information security and take every opportunity to learn and grow in the field.
-
-My childhood was spent growing up on a farm which provided lots of opportunity to learn how to work hard, as well as to learn how to problem solve across a broad range. Being able to “Think outside the box” is a skill that is extremely valuable in IT and many problems faced on a daily basis require this skill to successfully solve.
-
-ChatGPT
-
 Hello and welcome! As an Information Technology Professional based in South-Western Ontario, Canada, I have been working in the field since 2011 and am always seeking to broaden my experience and training. I have a strong passion for IT security and am dedicated to continuously learning and growing in this field.
 
 Growing up on a rural farm taught me the value of hard work and the ability to think outside the box, which are both essential skills in IT. Many of the problems encountered in this field require creative thinking and the ability to find solutions from a variety of angles. I am always looking for new opportunities to hone these skills and provide the best possible service.
@@ -69,27 +63,27 @@ Front Line Leadership | March 2018
 > > **Cyber Security Analyst III**\
 > > October 2021 - Current
 > >
-> >Working as part of our Identity Management team in our Enterprise IT Security Department with areas of focus in Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi Factor Authentication and Identity management.
+> >As a member of the Identity Management team in the Enterprise IT Security Department, my areas of focus included Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi Factor Authentication, and Identity management. I worked to ensure the security and integrity of our systems and user identities through the implementation and maintenance of these technologies.
 >
 > > **IT Site Lead**\
 > > January 2021 - March 2022
 > >
-> > Lead a team of three to provide secure and stable mobile, workstation, server and network systems for the CF Courtright Manufacturing Faculty empowering the site to operate in a safe and environmentally responsible manner. Managed IT budgets and capital upgrade projects for the site. Participated in site emergency response management team.
+> >As the leader of a team of three, I was responsible for ensuring the secure and stable operation of mobile, workstation, server, and network systems at CF Courtright Manufacturing Faculty. My efforts enabled the site to operate safely and responsibly, while also participating in the emergency response management team. In addition, I managed IT budgets and successfully led capital upgrade projects at the site.
 >
 > > **Network Administrator II**\
 > > June 2019 - January 2021
 > >
-> > Managed the backend systems that supported our endpoint deployment, patching and management. Managed mobile device fleet and provided customers with a streamlined user experience. Participated on team supporting all other server and network systems for the manufacturing site to ensure safe and continuous operations. Built and deployed scripts and automation to assist with administration, upkeep and deployment of systems in a secure, automated and repeatable manner.
+> > During my time in this position I was responsible for managing the backend systems that supported endpoint deployment, patching, and management. This included overseeing the mobile device fleet and providing customers with an efficient user experience. As a member of a team supporting all other server and network systems at the manufacturing site, I helped ensure safe and continuous operations. To streamline administration and improve efficiency, I developed and deployed scripts and automation tools to automate and secure system deployment processes.
 >
 > > **Enterprise Support Supervisor – Canada**\
 > > December 2017 - June 2019
 > >
-> > Supervised IT Enterprise Support for CF locations across Canada and worked as part of a team to bring value to the business while working safely and following our motto of “Doing it Right”. Led a team of up to four people providing front line support to two manufacturing plants and managing approximately four hundred workstations.
+> >As a supervisor for IT Enterprise Support for CF locations across Canada, I worked with a team to bring value to the business while following our motto of "Doing it Right" and prioritizing safety. I led a team of up to four individuals providing front line support to two manufacturing plants and managing approximately 400 workstations. My leadership and technical expertise allowed us to effectively support the IT needs of our users and ensure the smooth operation of our IT systems.
 >
 > > **Enterprise Support Specialist II**\
 > > April 2016 - December 2017
 > >
-> > Provide front-line support to approximately two hundred users as well as seeing to the administration and upkeep of workstation and mobile device fleet. Build and maintain software deployment packages. Monitor endpoint security, new software, OS, and hardware testing. Maintain the servers that manage our workstation environment and assist with server maintenance and management of our broader server and VMware infrastructure.
+> >As a front-line support specialist, I provided technical assistance to approximately 200 users and was responsible for the administration and maintenance of the workstation and mobile device fleet. I also built and maintained software deployment packages and monitored endpoint security, testing new software, operating systems, and hardware. Additionally, I maintained the servers that managed our workstation environment and assisted with server maintenance and the management of our broader server and VMware infrastructure. My efforts ensured the smooth operation of our systems and the satisfaction of our users.
 > >
 > > - Manage 280+ endpoints (Desktop, Laptop, Mobile)
 > > - Assist with Microsoft Server and VMware ESXi Administration
@@ -115,9 +109,9 @@ Front Line Leadership | March 2018
 > >
 > > Provide managed IT services throughout Sarnia and South-western Ontario.
 > >
-> > Design, build, implement, and maintain a range of hardware and software solutions for a broad spectrum of companies and users. This includes: installing, troubleshooting and debugging local area networks, installation and system administration of servers, site to site VPN’s, mobile VPN’s, mobile phones (windows, apple, blackberry, android), analog and IP Phones, workstation deployment and support, wireless, backups (tape, spinning disk, off-site), Active Directory administration, and troubleshooting issues with remote endpoint users.
+> >As a provider of managed IT services throughout Sarnia and South-western Ontario, I designed, built, implemented, and maintained a wide range of hardware and software solutions for a diverse range of companies and users. My responsibilities included installing and troubleshooting local area networks, installing and administering servers, configuring site-to-site and mobile VPNs, supporting a variety of mobile phone platforms, configuring analog and IP phones, deploying and supporting workstations, implementing wireless solutions, managing backups, administering Active Directory, and assisting remote endpoint users with issues.
 > >
-> >As a Desktop Administrator / Systems Analyst, I also assisted other LEADWAVE technicians with unique situations that required additional teamwork and knowledge sharing to find a successful and timely solution.
+> >As a Desktop Administrator and Systems Analyst, I also collaborated with other LEADWAVE technicians to find effective and timely solutions to unique technical challenges. My expertise and teamwork skills allowed me to consistently deliver high-quality IT services to our clients.
 >
 > >**Field Technician**\
 > > September 2012 - May 2014
@@ -129,7 +123,7 @@ Front Line Leadership | March 2018
 > **Sarnia Police Services** | Sarnia, Ontario\
 > October 2011 - July 2012
 >
-> While working for Sarnia Police I had the opportunity to assist all levels of personnel with computer help desk issues as well as working with local, provincial, and federal counterparts in maintaining the Sarnia Police computer network and 911 dispatch center.
+> During my time with Sarnia Police, I provided computer help desk support to personnel at all levels and worked closely with local, provincial, and federal counterparts to maintain the Sarnia Police computer network and 911 dispatch center. My technical expertise and collaborative approach allowed me to effectively support the needs of the organization and ensure the smooth operation of critical systems.
 >
 >Tasks and Responsibilities included
 >- Provided help desk support for approximately 180 users
@@ -162,7 +156,7 @@ Front Line Leadership | March 2018
 **Information Technology Professional** | Lambton College (Sarnia, Ontario)\
 Graduate Certificate - ITP-32 Class of 2011 (Deans Honour List)
 
-The ITP Program is a 12 month, fast track program focusing on computer system designing, building, maintaining, and support in a broad spectrum of hardware and software. This program also has management courses to round out a candidate for leadership roles. Courses that are included in this program are:
+The ITP Program is a comprehensive, 12-month fast track program that covers a wide range of topics in computer system design, building, maintenance, and support. In addition to technical courses, the program also includes management training to prepare candidates for leadership roles. The specific courses included in the program are:
 
 - Project Management (CompTIA Project +)
 - Cisco Certified Network Associate (CCNA)
@@ -180,9 +174,9 @@ The ITP Program is a 12 month, fast track program focusing on computer system de
 **Camp Apprentice Ministry Program** | Miracle Mountain Ranch Missions (Spring Creek, Pennsylvania)\
 2008 - 2010
 
-The Camp Apprentice Ministry Program is a 12-month college-level apprenticeship leadership training program, Biblical studies school, horse ranch and kids summer camp. This program provides both theoretical training, as well as hands-on opportunities to demonstrate and build on the lessons learned.
+The Camp Apprentice Ministry Program is a 12-month college-level apprenticeship that combines leadership training, Biblical studies, work on a horse ranch, and experience at a summer camp for children. The program provides both theoretical training and hands-on opportunities to demonstrate and build upon the lessons learned.
 
-A second year is done by a limited number of first year graduates were skills in leadership, mentoring and summer camp ministry are further developed.
+A small number of first-year graduates, including myself, were selected to continue on for a second year of training, during which we had the chance to further enhance our skills in leadership, mentoring, and summer camp ministry.
 
 ---
 
@@ -235,6 +229,6 @@ Was able to help with the construction of a youth sports center and volunteer wo
 
 ## PERSONAL INTERESTS
 
-I am currently pursuing a dream of having my private pilot’s license and have completed ground school as well as a number of hours of flight training.
+I am currently working towards my dream of obtaining my private pilot's license and have completed ground school and a significant number of hours of flight training.
 
-I also enjoy experimenting and challenging myself with new technologies and software in my personal VM lab and continue to broaden my knowledge and understanding of new technology and in particular the computer security field.
+In my personal time, I enjoy experimenting with and learning about new technologies and software in my virtual machine lab, and I am particularly interested in the field of computer security. I am always looking for opportunities to expand my knowledge and understanding of new technologies.
