@@ -3,9 +3,9 @@ title: How to Build an Aircraft Band (ATC) and ADSB Receiver
 date: 2022-01-17 12:00:00 -0500
 categories: [Aviation]
 tags: [aircraft band, atc, adsb, raspberry pi, sdr]
-image_path: /assets/img/posts/how-to-build-an-atc-and-adsb-receiver/
+img_path: /assets/img/drafts/how-to-build-an-atc-and-adsb-receiver/
 image:
-  path: /assets/img/posts/how-to-build-an-atc-and-adsb-receiver/adsb_cover.jpg
+  path: adsb_cover.jpg
   alt: ADSB of South Western Ontario
 ---
 Like any good project, having a goal and due date can be great motivation to "Kick the tires and light the fires".  For years, I had wanted to be able to listen to my local airport radio traffic (CYZR Sarnia, Ontario) while I was at work, or out of range of the airport.  I had looked up ADSB and SDR radios in the past but never had a good reason to buckle down and put it all together.  In 2021 Sarnia Airport had its first Save Our Airport (SOAR) fly-in to try and bring more public awareness to small regional airports and the value they continue to provide in Canada.  The fly-in was a huge success with hundreds of general aviation aircraft showing up and allowing the public to see airplanes they would not normally see.
@@ -57,7 +57,7 @@ _Flower Pot Antenna Calculations for Aircraft Band 127.5 Antenna - Credit nomons
 #### Building the Antenna
 To build the antenna, I purchased 50 feet of N-Type Cable RG58 which was already terminated on both ends from Amazon. The cost at the time of writing this was $33.99 from [Amazon.ca](https://www.amazon.ca/gp/product/B09B79FJ2L/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1) for the cable which ensures you have a really good connector without needing to crimp your own.  I also got a 10-foot length of 3/4 inch schedule 40 PVC pipe which when cut in half is a perfect length for this antenna.  Along with the pipe, I also picked up a 3/4" end cap, 3/4" Female adapter to threaded, 3/4" to 1/2" bushing, and a 1/2" strain relief all schedule 40 PVC.  If you don't have any PVC glue, you will also need to grab a can of that.  This allowed me to build an antenna that is weathertight and should last in the elements for a long time.
 
-To get all of the measurements right, I started by putting a long sheet of paper on my workbench and then marking out all the lengths on paper.  This was a lot easier than trying to hold the wire and a tape measure at the same time.  I also used a yellow marker to lay out all the sections on the wire before cutting anything.
+To get all of the measurements right, I started by putting a long sheet of paper on my workbench and then marking out all the lengths on the paper.  This was a lot easier than trying to hold the wire and a tape measure at the same time.  I also used a yellow marker to lay out all the sections on the wire before cutting anything.
 
 
 
@@ -68,11 +68,13 @@ To get all of the measurements right, I started by putting a long sheet of paper
 ## Build Out
 
 ## Lessons learned after running through the summer
+- Heat was a major factor that caused the Raspberry Pi to crash.
+- Ran out of space on the SD card from Radio recordings.  Added a 32GB USB stick to store recordings on and a cron job to delete recordings older than 7 days.
 
 ## Links
 
 ## Calculator Code
-Code copied from the calculator form on nomonsuhendar's blog.  I have not validated these calculations myself more than I followed them and found they worked well for me.
+Code copied from the calculator form on Nomonsuhendar's blog.  I have not validated these calculations myself more than I followed them and found they worked well for me.
 
 ``` javascript
 function calcfp()
