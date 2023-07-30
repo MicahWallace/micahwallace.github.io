@@ -63,9 +63,9 @@ Front Line Leadership | March 2018
 > > **Cyber Security Analyst III**\
 > > October 2021 - Current
 > >
-> >As a member of the Identity Management team in the Enterprise IT Security Department, my areas of focus included Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi Factor Authentication, and Identity management. I worked to ensure the security and integrity of our systems and user identities through the implementation and maintenance of these technologies.
+> >As a member of the Identity Management team in the Enterprise IT Security Department, my main areas of focus include Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi-Factor Authentication, Identity Management, and Privileged Account Security. I ensure the security and integrity of our systems and user identities by implementing and maintaining these technologies.
 >
-> > **IT Site Lead**\
+> > **Information Technology Site Lead**\
 > > January 2021 - March 2022
 > >
 > >As the leader of a team of three, I was responsible for ensuring the secure and stable operation of mobile, workstation, server, and network systems at CF Courtright Manufacturing Faculty. My efforts enabled the site to operate safely and responsibly, while also participating in the emergency response management team. In addition, I managed IT budgets and successfully led capital upgrade projects at the site.
@@ -156,7 +156,7 @@ Front Line Leadership | March 2018
 **Information Technology Professional** | Lambton College (Sarnia, Ontario)\
 Graduate Certificate - ITP-32 Class of 2011 (Deans Honour List)
 
-The ITP Program is a comprehensive, 12-month fast track program that covers a wide range of topics in computer system design, building, maintenance, and support. In addition to technical courses, the program also includes management training to prepare candidates for leadership roles. The specific courses included in the program are:
+The ITP Program is a comprehensive, 12-month fast-track program that covers a wide range of topics in computer system design, building, maintenance, and support. In addition to technical courses, the program also includes management training to prepare candidates for leadership roles. The specific courses included in the program are:
 
 - Project Management (CompTIA Project +)
 - Cisco Certified Network Associate (CCNA)
@@ -176,7 +176,7 @@ The ITP Program is a comprehensive, 12-month fast track program that covers a wi
 
 The Camp Apprentice Ministry Program is a 12-month college-level apprenticeship that combines leadership training, Biblical studies, work on a horse ranch, and experience at a summer camp for children. The program provides both theoretical training and hands-on opportunities to demonstrate and build upon the lessons learned.
 
-A small number of first-year graduates, including myself, were selected to continue on for a second year of training, during which we had the chance to further enhance our skills in leadership, mentoring, and summer camp ministry.
+A small number of first-year graduates, including myself, were selected to continue for a second year of training, during which we had the chance to further enhance our skills in leadership, mentoring, and summer camp ministry.
 
 ---
 
@@ -218,7 +218,7 @@ Provided volunteer IT support to Sarnia Lambton Crime Stoppers.
 **Spring Creek Volunteer Fire Department** | Volunteer Fire Fighter (Spring Creek, Pennsylvania)\
 Oct 2009 - Aug 2010
 
-While on the department I had the opportunity to respond to medical assistance calls, motor vehicle accidents, and building fires. I was also able to help with a controlled wildfire burn.
+While being a part of the department, I had the opportunity to respond to medical assistance calls, motor vehicle accidents, and building fires. I was also able to help with a controlled wildfire burn.
 
 - Completed sixteen-hour Fire Fighter Basic Training. Warren County Fire School
 
@@ -229,6 +229,13 @@ Was able to help with the construction of a youth sports center and volunteer wo
 
 ## PERSONAL INTERESTS
 
-I am currently working towards my dream of obtaining my private pilot's license and have completed ground school and a significant number of hours of flight training.
+When I'm not busy with work, you'll often find me just enjoying some quality time with my wife and kids. We love doing things together and having fun as a family.
 
-In my personal time, I enjoy experimenting with and learning about new technologies and software in my virtual machine lab, and I am particularly interested in the field of computer security. I am always looking for opportunities to expand my knowledge and understanding of new technologies.
+I'm also a bit of a tech geek and love playing around with new gadgets and learning about the latest technology trends. It's exciting to see how fast things are changing in the tech world!
+
+Another thing that really interests me is computer security. I find it fascinating to learn about different ways to keep our digital lives safe and secure and enjoy playing with new concepts in my home lab.
+
+Oh, and one of my big dreams is to get my private pilot's license. Flying has always been a dream of mine, and I'm slowly working towards making that dream a reality. You can see the video of my first solo flight below!
+[https://youtu.be/cBV2sSmQgrA](https://youtu.be/cBV2sSmQgrA)
+
+So yeah, that's a bit about me and the things I enjoy doing in my free time. Just taking it easy and having fun with the things that make me happy!
