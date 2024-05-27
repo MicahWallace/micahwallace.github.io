@@ -8,52 +8,17 @@ order: 5
 ---
 
 Email: micahwallace[at]gmail[dot]com\
-Location: Ontario, Canada\
-LinkedIn: [linkedin.com/in/wallacemicah](https://www.linkedin.com/in/wallacemicah)
+Location: Ontario, Canada
+
+Connect with me on LinkedIn: [linkedin.com/in/wallacemicah](https://www.linkedin.com/in/wallacemicah)
 
 ---
 
-Hello and welcome! As an Information Technology Professional based in South-Western Ontario, Canada, I have been working in the field since 2011 and am always seeking to broaden my experience and training. I have a strong passion for IT security and am dedicated to continuously learning and growing in this field.
+Hello and Thank you for visiting! I am an IT Security Specialist located in South-Western Ontario, Canada, where I have been actively engaged in the information technology sector since 2011. My career is driven by a profound commitment to advancing my expertise and understanding in the dynamic field of cybersecurity.
 
-Growing up on a rural farm taught me the value of hard work and the ability to think outside the box, which are both essential skills in IT. Many of the problems encountered in this field require creative thinking and the ability to find solutions from a variety of angles. I am always looking for new opportunities to hone these skills and provide the best possible service.
+Raised on a rural farm, I learned early the significance of diligence and the power of innovative thinking, traits that have proven indispensable in the realm of IT. The complexities of cybersecurity demand not only technical acumen but also the creativity to devise solutions from diverse perspectives. With each challenge, I strive to leverage these skills to enhance system security and ensure robust protection against evolving threats.
 
----
-
-## CERTIFICATIONS
-
-- **Certified Ethical Hacker (CEH)**\
-EC-Council | Dec 2017 - Dec 2023
-
-- **Cisco Certified Network Associate Security (CCNA Security)**\
-Cisco | May 2014 - March 2023
-
-- **Cisco Certified Network Associate (CCNA)**\
-Cisco | August 2011 - March 2023
-
-- **ITIL Foundations**\
-PeopleCert | June 2018
-
-- **Security+**\
-CompTIA | Dec 2015
-
-- **Sarnia Chemical Valley Safety Training (BSO Plus)**\
-IEC Sarnia | Sep 2015
-
-- **Microsoft Certified Systems Associate – Windows Server 2012**\
-Microsoft | April 2014
-
-- **Microsoft Certified Systems Associate – Windows Server 2008**\
-Microsoft | April 2012
-
-- **Project+**\
-CompTIA | April 2011
-
----
-
-## COURSES
-
-- **Front Line Leadership Training**\
-Front Line Leadership | March 2018
+I am continually in pursuit of opportunities that allow me to refine my skills and offer superior cybersecurity solutions, keeping pace with the latest advancements in technology and threat management.
 
 ---
 
@@ -155,6 +120,80 @@ Front Line Leadership | March 2018
 
 ---
 
+## CERTIFICATIONS
+
+- **Certified Ethical Hacker (CEH)**\
+EC-Council | Dec 2017 - Dec 2023
+
+- **Cisco Certified Network Associate Security (CCNA Security)**\
+Cisco | May 2014 - March 2023
+
+- **Cisco Certified Network Associate (CCNA)**\
+Cisco | August 2011 - March 2023
+
+- **ITIL Foundations**\
+PeopleCert | June 2018
+
+- **Security+**\
+CompTIA | Dec 2015
+
+- **Sarnia Chemical Valley Safety Training (BSO Plus)**\
+IEC Sarnia | Sep 2015
+
+- **Microsoft Certified Systems Associate – Windows Server 2012**\
+Microsoft | April 2014
+
+- **Microsoft Certified Systems Associate – Windows Server 2008**\
+Microsoft | April 2012
+
+- **Project+**\
+CompTIA | April 2011
+
+---
+
+## COURSES
+
+- **Microsoft Azure Security Technologies (AZ-500)**\
+Global Knowledge | November 2023
+
+- **Time Management: Organize and Prioritize to Increase Your Productivity**\
+Dale Carnegie | November 2022
+
+- **Lead Change Effectively**\
+Dale Carnegie | October 2022
+
+- **Present Complex Information**\
+Dale Carnegie | October 2022
+
+- **Microsoft Security Virtual Training Day**\
+Microsoft | October 2022
+
+- **Threat Hunting Workshop**\
+CDW | June 2022
+
+- **Microsoft Azure Fundamentals (AZ-900)**\
+Global Knowledge | October 2021
+
+- **AWS Cloud Practitioner Essentials**\
+Global Knowledge | June 2020
+
+- **Cisco CCNA Security Bootcamp (Recertification)**\
+Infosec | February 2020
+
+- **CyberCity Con 2019**\
+October 2019
+
+- **Hardening Windows Networks**\
+Digital Boundary Group | September 2019
+
+- **Securing Windows Server 2019**\
+Global Knowledge | September 2019
+
+- **Front Line Leadership Training**\
+Front Line Leadership | March 2018
+
+---
+
 ## EDUCATION
 
 **Information Technology Professional** | Lambton College (Sarnia, Ontario)\
@@ -235,11 +274,11 @@ Was able to help with the construction of a youth sports center and volunteer wo
 
 When I'm not busy with work, you'll often find me just enjoying some quality time with my wife and kids. We love doing things together and having fun as a family.
 
-I'm also a bit of a tech geek and love playing around with new gadgets and learning about the latest technology trends. It's exciting to see how fast things are changing in the tech world!
+If you had not guessed, I am a tech geek and love playing around with new gadgets and learning about the latest technology trends. It's exciting to see how fast things are changing in the tech world!
 
-Another thing that really interests me is computer security. I find it fascinating to learn about different ways to keep our digital lives safe and secure and enjoy playing with new concepts in my home lab.
+Computer Securty and Identity Management is a passion and I find it fascinating to learn about different ways to keep our digital lives safe and secure and enjoy playing with new concepts in my home lab.
 
 Oh, and one of my big dreams is to get my private pilot's license. Flying has always been a dream of mine, and I'm slowly working towards making that dream a reality. You can see the video of my first solo flight below!
 [https://youtu.be/cBV2sSmQgrA](https://youtu.be/cBV2sSmQgrA)
 
-So yeah, that's a bit about me and the things I enjoy doing in my free time. Just taking it easy and having fun with the things that make me happy!
+So yeah, that's a bit about me and the things I enjoy doing in my free time. Just focusing on the things that matter and having fun with the people that make life matter as we enjoy the journey of life.
