@@ -12,7 +12,7 @@ Over the years I have been asked many times about some of the gear I use and rec
 
 ## Software
 
-[**1Password Password Manager**](http://bit.ly/2DaScpd)
+[**1Password Password Manager**](https://bit.ly/2DaScpd)
 If you don't know what a password manager is, its a secure place to store all your password like a safe, and if your not using one, you really should be.  1Password is one I have used for many years and works great across iOS, Android, Windows and Mac devices.  If you are a fellow Canadian, check out their .ca site for Canadian pricing.
 >Make sure you use a strong master password on any password managers as this is what prevents a hacker from getting all your passwords in the rare event that they get a copy of your password vault.  Master passwords should be long (like a short sentence), and should be a password that you don't use anywhere else.
 {: .prompt-warning }
