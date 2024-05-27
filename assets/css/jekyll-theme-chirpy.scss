@@ -1,0 +1,21 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+/* Light Mode */
+html:not([data-mode]),html[data-mode=light] {
+--blockquote-border-color: #d3d3d3;
+--blockquote-text-color: #000000;
+}
+
+/* Dark mode */
+html[data-mode=dark]{
+--blockquote-border-color: rgb(97, 97, 97);
+--blockquote-text-color: rgb(175, 176, 177);
+}
