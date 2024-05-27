@@ -8,7 +8,8 @@ order: 5
 ---
 
 Email: micahwallace[at]gmail[dot]com\
-Location: Ontario, Canada
+Location: Ontario, Canada\
+LinkedIn: [linkedin.com/in/wallacemicah](https://www.linkedin.com/in/wallacemicah)
 
 ---
 
@@ -60,8 +61,11 @@ Front Line Leadership | March 2018
 
 > **CF Industries** | Sarnia, Ontario\
 > April 2016 - Current
-> > **Cyber Security Analyst III**\
-> > October 2021 - Current
+> > **Sr. Cyber Security Analyst (Identity Access Management)**\
+> > February 2024 - Current
+>
+> > **Cyber Security Analyst III (Identity Access Management)**\
+> > October 2021 - February 2024
 > >
 > >As a member of the Identity Management team in the Enterprise IT Security Department, my main areas of focus include Microsoft Active Directory, Azure Active Directory, Conditional Access, Multi-Factor Authentication, Identity Management, and Privileged Account Security. I ensure the security and integrity of our systems and user identities by implementing and maintaining these technologies.
 >
