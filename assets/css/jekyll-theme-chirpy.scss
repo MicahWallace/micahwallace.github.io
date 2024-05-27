@@ -9,7 +9,8 @@
 
 /* append your custom style below */
 /* Light Mode */
-html:not([data-mode]),html[data-mode=light] {
+/*html:not([data-mode]),html[data-mode=light] { */
+html[data-mode=light] {
 --blockquote-border-color: #d3d3d3;
 --blockquote-text-color: #000000;
 }
