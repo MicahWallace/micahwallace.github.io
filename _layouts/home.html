@@ -5,14 +5,41 @@ refactor: true
 
 {% include lang.html %}
 
-
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
 {% assign posts = '' | split: '' %}
 
+<style>
+.card-wrapper {
+    margin-bottom: 20px; /* Adds space between cards */
+}
+.linkedin-card .card-body {
+    padding: 5px 20px; /* Adjust padding as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers content vertically */
+    align-items: flex-start; /* Aligns content to the left */
+}
+.resume-card .card-body h1, .resume-card .card-body p {
+    color: #4CAF50; /* Sets text color to green */
+}
+</style>
+
+<!-- Add LinkedIn card -->
+<article class="card-wrapper card linkedin-card">
+  <a href="https://www.linkedin.com/in/wallacemicah" class="post-preview row g-0 flex-md-row-reverse" target="_blank">
+    <div class="col-md-12">
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Connect with me on LinkedIn! <i class="fas fa-arrow-right"></i></h1>
+      </div>
+    </div>
+  </a>
+</article>
+
+
 <!-- Add Resume card -->
-<article class="card-wrapper card">
+<article class="card-wrapper card resume-card">
     <a href="/resume" class="post-preview row g-0 flex-md-row-reverse">
       <div class="col-md-12">
         <div class="card-body d-flex flex-column">
