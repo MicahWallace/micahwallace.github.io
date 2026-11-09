@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+published: false   # hidden until there is content; remove this line to bring it back
 icon: fas fa-info-circle
 order: 4
 ---

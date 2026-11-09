@@ -82,7 +82,7 @@ For Podcasts, I love the [Podcast Addict](https://podcastaddict.com/app) app for
 
 Some of my favorite podcasts are:
 - [SANS Internet Storm Center Daily Cyber Security Podcast](https://isc.sans.edu/podcast.html)\
-  This is a great, short, daily podcast briefing that brings you up to speed on cyber security news, patches, vulnerabilities and trends.
+  This is a great, short, daily podcast briefing that brings you up to speed on cybersecurity news, patches, vulnerabilities and trends.
 - [Darknet Diaries](https://darknetdiaries.com/)\
   True stories from the dark side of the Internet.
 - [Beers with Talos Podcast](https://talosintelligence.com/podcasts/shows/beers_with_talos)\
