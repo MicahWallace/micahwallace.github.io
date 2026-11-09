@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   Information Technology Professional with a love for Family, Life, Computer Security and Flying!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://micahwallace.github.io'
+url: 'https://micahwallace.ca'
 
 github:
   username: MicahWallace             # change to your github username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Micah Wallace
-  email: micahwallace[at]google.com             # change to your email address
+  email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/wallacemicah
@@ -133,7 +133,9 @@ assets:
     env:          # [development|production]
 
 pwa:
-  enabled: true   # the option for PWA feature
+  enabled: true   # the option for PWA feature (installable)
+  cache:
+    enabled: true # the option for PWA offline cache
 
 paginate: 10
 

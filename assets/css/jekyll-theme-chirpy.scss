@@ -1,7 +1,12 @@
 ---
 ---
 
-@import 'main
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
@@ -9,14 +14,18 @@
 
 /* append your custom style below */
 /* Light Mode */
-/*html:not([data-mode]),html[data-mode=light] { */
-html[data-mode=light] {
+:root[data-bs-theme=light] {
 --blockquote-border-color: #d3d3d3;
 --blockquote-text-color: #000000;
 }
 
 /* Dark mode */
-html[data-mode=dark]{
+:root[data-bs-theme=dark] {
 --blockquote-border-color: rgb(97, 97, 97);
 --blockquote-text-color: rgb(175, 176, 177);
+}
+
+/* Chirpy 7.6 fixes the subtitle at 3rem, which is too short for this tagline */
+#sidebar .site-subtitle {
+  height: auto;
 }
