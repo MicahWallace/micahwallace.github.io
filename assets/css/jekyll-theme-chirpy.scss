@@ -29,3 +29,22 @@
 #sidebar .site-subtitle {
   height: auto;
 }
+
+/* Resume card on the home page: readable green in each color mode */
+:root[data-bs-theme=light] .resume-card .card-title,
+:root[data-bs-theme=light] .resume-card p {
+  color: #2e7d32;
+}
+
+:root[data-bs-theme=dark] .resume-card .card-title,
+:root[data-bs-theme=dark] .resume-card p {
+  color: #4caf50;
+}
+
+/* Home page cards: keep the large title size on their h2 headings */
+.linkedin-card .card-title,
+.resume-card .card-title {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+}

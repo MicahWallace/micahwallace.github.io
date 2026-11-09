@@ -17,10 +17,10 @@ timezone: America/Toronto
 
 title: Micah Wallace                          # the main title
 
-tagline: Information Technology Professional with a love for Family, Life, Computer Security and Flying!   # it will display as the sub-title
+tagline: Sr. Cyber Security Analyst specializing in Identity and Access Management, with a love for Family, Life and Flying!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Information Technology Professional with a love for Family, Life, Computer Security and Flying!
+  Sr. Cyber Security Analyst specializing in Identity and Access Management, with a love for Family, Life and Flying!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://micahwallace.ca'
@@ -99,6 +99,9 @@ img_cdn:
 #avatar: https://avatars.githubusercontent.com/u/20345427?v=4 #github
 #avatar: /assets/img/profile/micah_wallace_profile.jpg
 avatar: https://avatars.githubusercontent.com/u/20345427?v=4 #github
+
+# the image shown when the site is shared on social media
+social_preview_image: /assets/img/profile/micah_wallace_profile.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true

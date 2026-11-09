@@ -7,13 +7,10 @@ pin: true
 ---
 Over the years I have been asked many times about some of the gear I use and recommend.  Below is a list of items I will try to keep up to date.  If you have ideas for gear that is new or interesting, let me know.
 
->I do participate in affiliate programs (Amazon Associate).  Links below will not charge you more, but I do earn a small commission on qualifying purchases.
-{: .prompt-info }
-
 ## Software
 
-[**1Password Password Manager**](https://bit.ly/2DaScpd)
-If you don't know what a password manager is, its a secure place to store all your password like a safe, and if your not using one, you really should be.  1Password is one I have used for many years and works great across iOS, Android, Windows and Mac devices.  If you are a fellow Canadian, check out their .ca site for Canadian pricing.
+[**1Password Password Manager**](https://1password.com/)
+If you don't know what a password manager is, it's a secure place to store all your passwords like a safe, and if you're not using one, you really should be.  1Password is one I have used for many years and works great across iOS, Android, Windows and Mac devices.  If you are a fellow Canadian, check out their .ca site for Canadian pricing.
 >Make sure you use a strong master password on any password managers as this is what prevents a hacker from getting all your passwords in the rare event that they get a copy of your password vault.  Master passwords should be long (like a short sentence), and should be a password that you don't use anywhere else.
 {: .prompt-warning }
 
@@ -22,7 +19,7 @@ If you don't know what a password manager is, its a secure place to store all yo
 Time is a valuable resource that you only get to spend once.  One of the ways I help myself stay up to date on technology and learn new things is by listening to podcasts and audio books while I drive.  Check out my blog post [Pulling Training Time Out of Thin Air](/posts/pulling-training-time-out-of-thin-air) for more on this.
 
 ### Audio Books
-For Audio books, I have an Audible Subscription. ([Amazon.ca](https://amzn.to/2QL48Wx)) ([Amazon.com](https://amzn.to/2pOssMk))
+For Audio books, I have an Audible Subscription. ([Audible.ca](https://www.audible.ca/)) ([Audible.com](https://www.audible.com/))
 
 Some of my favorite books over the years are:
 - Outliers: The Story of Success - Malcolm Gladwell
@@ -87,7 +84,7 @@ Some of my favorite podcasts are:
 - [SANS Internet Storm Center Daily Cyber Security Podcast](https://isc.sans.edu/podcast.html)\
   This is a great, short, daily podcast briefing that brings you up to speed on cyber security news, patches, vulnerabilities and trends.
 - [Darknet Diaries](https://darknetdiaries.com/)\
-  True stores from the dark side of the Internet.
+  True stories from the dark side of the Internet.
 - [Beers with Talos Podcast](https://talosintelligence.com/podcasts/shows/beers_with_talos)\
   Threats, Beers, and no Silver Bullets. Listen to Talos security experts as they bring their hot takes on current security topics and Talos research to the table.
 - [The EntreLeadership Podcast](https://www.ramseysolutions.com/shows/the-entreleadership-podcast)\

@@ -1,9 +1,10 @@
 ---
+description: Micah Wallace is a Senior Cyber Security Analyst specializing in Identity and Access Management, based in Ontario, Canada.
 icon: fas fa-circle-user
 order: 5
 ---
 
-# Micah Wallace
+## Micah Wallace
 
 ---
 
@@ -37,7 +38,7 @@ I am continually in pursuit of opportunities that allow me to refine my skills a
 > > **Information Technology Site Lead**\
 > > January 2021 - March 2022
 > >
-> >As the leader of a team of three, I was responsible for ensuring the secure and stable operation of mobile, workstation, server, and network systems at CF Courtright Manufacturing Faculty. My efforts enabled the site to operate safely and responsibly, while also participating in the emergency response management team. In addition, I managed IT budgets and successfully led capital upgrade projects at the site.
+> >As the leader of a team of three, I was responsible for ensuring the secure and stable operation of mobile, workstation, server, and network systems at CF Courtright Manufacturing Facility. My efforts enabled the site to operate safely and responsibly, while also participating in the emergency response management team. In addition, I managed IT budgets and successfully led capital upgrade projects at the site.
 >
 > > **Network Administrator II**\
 > > June 2019 - January 2021
@@ -102,7 +103,7 @@ I am continually in pursuit of opportunities that allow me to refine my skills a
 >- Maintained system backups
 >
 > > **Systems Technician (Contract)**
-> > December 2012 - July 2012
+> > December 2011 - July 2012
 > >
 > > **Sarnia Police - Blackberry Project (2012)**
 > >- Configured and deployed Blackberry phones to approximately 100 users
@@ -197,7 +198,7 @@ Front Line Leadership | March 2018
 ## EDUCATION
 
 **Information Technology Professional** | Lambton College (Sarnia, Ontario)\
-Graduate Certificate - ITP-32 Class of 2011 (Deans Honour List)
+Graduate Certificate - ITP-32 Class of 2011 (Dean's Honour List)
 
 The ITP Program is a comprehensive, 12-month fast-track program that covers a wide range of topics in computer system design, building, maintenance, and support. In addition to technical courses, the program also includes management training to prepare candidates for leadership roles. The specific courses included in the program are:
 
@@ -276,7 +277,7 @@ When I'm not busy with work, you'll often find me just enjoying some quality tim
 
 If you had not guessed, I am a tech geek and love playing around with new gadgets and learning about the latest technology trends. It's exciting to see how fast things are changing in the tech world!
 
-Computer Securty and Identity Management is a passion and I find it fascinating to learn about different ways to keep our digital lives safe and secure and enjoy playing with new concepts in my home lab.
+Computer Security and Identity Management is a passion and I find it fascinating to learn about different ways to keep our digital lives safe and secure and enjoy playing with new concepts in my home lab.
 
 Oh, and one of my big dreams is to get my private pilot's license. Flying has always been a dream of mine, and I'm slowly working towards making that dream a reality. You can see the video of my first solo flight below!
 [https://youtu.be/cBV2sSmQgrA](https://youtu.be/cBV2sSmQgrA)
